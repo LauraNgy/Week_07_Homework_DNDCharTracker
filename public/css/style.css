@@ -1,0 +1,35 @@
+body {
+  background-color: Gainsboro;
+  font-family: 'Oswald', sans-serif;
+}
+
+.form-wrapper {
+  display: inline-block;
+}
+.form-input{
+  display: inline-block;
+}
+
+legend {
+  float: left;
+}
+
+.player-item {
+  color: white;
+  text-align: center;
+}
+
+.active {
+  background-color: green;
+  border: 2px darkgreen solid;
+}
+
+.notActive {
+  background-color: firebrick;
+  border: 2px darkred solid;
+}
+
+.image {
+  display: none;
+  padding-left: 10vh;
+}
